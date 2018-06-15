@@ -47,7 +47,7 @@ h6 {
 }
 
 .bg-navyblue {
-  background-color: #3b5d8e;
+  background-color: #3b5d8e !important;
 }
 
 .text-faded {
