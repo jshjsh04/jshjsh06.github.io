@@ -1,6 +1,8 @@
 # jsh's github pages
 연습용 portfolio 사이트입니다.
 
+https://jshjsh06.github.io/
+
 
 ## Copyright and License
 
